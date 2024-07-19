@@ -63,7 +63,7 @@
       "translatte": "^3.0.1",
       "util": "^0.12.4",
       "wa-sticker-formatter": "^4.3.2",
-      "youtubei.js": "latest",
+      "youtubei.js": "9.4.0",
       "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch",
       "ytdl-secktor": "npm:ytdl-core@latest"
       
